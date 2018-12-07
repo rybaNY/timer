@@ -11,3 +11,5 @@ timer();
 setInterval(go, 1000);
 
 //komentarz
+
+//sprawdzam git
